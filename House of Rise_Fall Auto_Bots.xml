@@ -33,7 +33,7 @@
             <field name="VAR" id="w`|pue1nO|yjPU%Hm=$-" variabletype="">Initial Amount</field>
             <value name="VALUE">
               <block type="math_number" id="4,^bcew[C1=(Z9]7f~Q}">
-                <field name="NUM">0.35</field>
+                <field name="NUM">0.50</field>
               </block>
             </value>
             <next>
@@ -41,7 +41,7 @@
                 <field name="VAR" id=".t=yDUK{SV[}j?/|23BZ" variabletype="">Win Amount</field>
                 <value name="VALUE">
                   <block type="math_number" id="PF!oC*y1fPxPJa~JQ;Ww">
-                    <field name="NUM">0.35</field>
+                    <field name="NUM">0.50</field>
                   </block>
                 </value>
                 <next>
@@ -49,7 +49,7 @@
                     <field name="VAR" id="JV7XTk._c=/OopSFlf.Q" variabletype="">Expected Profit</field>
                     <value name="VALUE">
                       <block type="math_number" id="5Y%aV#pY?^@dBk|R*1%:">
-                        <field name="NUM">7</field>
+                        <field name="NUM"100</field>
                       </block>
                     </value>
                     <next>
@@ -57,7 +57,7 @@
                         <field name="VAR" id="?mf4)JU7j6SmylH_Ee9x" variabletype="">Stop Loss</field>
                         <value name="VALUE">
                           <block type="math_number" id="#.AM?Bpsd_2F%CJmH@N@">
-                            <field name="NUM">999</field>
+                            <field name="NUM">1000</field>
                           </block>
                         </value>
                         <next>
