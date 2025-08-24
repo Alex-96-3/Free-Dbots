@@ -29,7 +29,7 @@
         <field name="VAR" id="Wpj%)tCgt{sKC~]nQ9%3" variabletype="">Expected Profit</field>
         <value name="VALUE">
           <block type="math_number" id="^ekK)N`aKxRDlMuMXh~P">
-            <field name="NUM">3</field>
+            <field name="NUM">5>/field>
           </block>
         </value>
         <next>
